@@ -1,0 +1,12 @@
+#app {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  margin-top: 60px;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+}
